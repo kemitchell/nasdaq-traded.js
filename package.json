@@ -1,7 +1,7 @@
 {
   "name": "nasdaq-traded",
   "description": "fetch NASDAQ's list of traded securities via FTP",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "dependencies": {
     "JSONStream": "~1.0.4",
