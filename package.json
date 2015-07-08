@@ -1,0 +1,21 @@
+{
+  "name": "nasdaq-traded",
+  "description": "fetch NASDAQ's list of traded securities via FTP",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "dependencies": {
+    "JSONStream": "~1.0.4",
+    "byline": "~4.2.1",
+    "ftp": "~0.3.10",
+    "through2": "~2.0.0",
+    "util-merge": "~1.0.0"
+  },
+  "devDependencies": {
+    "tape": "~4.0.0"
+  },
+  "license": "Apache-2.0",
+  "repository": "kemitchell/nasdaq-traded.js",
+  "scripts": {
+    "test": "tape test.js"
+  }
+}

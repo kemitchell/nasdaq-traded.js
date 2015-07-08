@@ -1,0 +1,22 @@
+{ "D": {
+    "deficient": true },
+  "E": {
+    "delinquent": true },
+  "Q": {
+    "bankrupt": true },
+  "N": {
+    "normal": true },
+  "G": {
+    "deficient": true,
+    "bankrupt": true },
+  "H": {
+    "deficient": true,
+    "delinquent": true },
+  "J": {
+    "delinquent": true,
+    "bankrupt": true },
+  "K": {
+    "deficient": true,
+    "delinquent": true,
+    "bankrupt": true } }
+
